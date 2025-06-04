@@ -1,5 +1,6 @@
-package Sistema_Declaracion_Facturas_Anuales;
+package Sistema_Declaracion_Facturas_Anuales.controller;
 
+import Sistema_Declaracion_Facturas_Anuales.*;
 import java.io.FileWriter;
 import java.io.IOException;
 

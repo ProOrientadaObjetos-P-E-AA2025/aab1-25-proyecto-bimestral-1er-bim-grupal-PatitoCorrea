@@ -1,5 +1,9 @@
-package Sistema_Declaracion_Facturas_Anuales;
+package Sistema_Declaracion_Facturas_Anuales.view;
 
+import Sistema_Declaracion_Facturas_Anuales.model.Usuario;
+import Sistema_Declaracion_Facturas_Anuales.model.Factura;
+import Sistema_Declaracion_Facturas_Anuales.controller.GestorArchivo;
+import Sistema_Declaracion_Facturas_Anuales.controller.CalcularImpuesto;
 import java.util.Scanner;
 
 public class SistemaDeclaracion {

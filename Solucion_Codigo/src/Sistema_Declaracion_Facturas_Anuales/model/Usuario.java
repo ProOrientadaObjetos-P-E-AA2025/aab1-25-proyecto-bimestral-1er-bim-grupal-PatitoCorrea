@@ -1,5 +1,6 @@
-package Sistema_Declaracion_Facturas_Anuales;
+package Sistema_Declaracion_Facturas_Anuales.model;
 
+import Sistema_Declaracion_Facturas_Anuales.*;
 import java.util.ArrayList;
 import java.util.List;
 

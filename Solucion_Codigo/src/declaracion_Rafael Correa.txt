@@ -1,6 +1,0 @@
-DECLARACIÓN DE IMPUESTOS
-Nombre: Rafael Correa
-Ingreso Anual: $57000.0
-Deducciones: $5000.0
-Base Imponible: $52000.0
-Impuesto a Pagar: $5267.299999999999

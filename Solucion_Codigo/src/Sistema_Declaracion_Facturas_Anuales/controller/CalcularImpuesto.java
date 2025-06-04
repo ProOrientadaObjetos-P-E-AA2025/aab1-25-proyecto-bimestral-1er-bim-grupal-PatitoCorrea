@@ -1,4 +1,6 @@
-package Sistema_Declaracion_Facturas_Anuales;
+package Sistema_Declaracion_Facturas_Anuales.controller;
+
+import Sistema_Declaracion_Facturas_Anuales.*;
 
 public class CalcularImpuesto {
     public static double calcularImpuesto(double base) {
